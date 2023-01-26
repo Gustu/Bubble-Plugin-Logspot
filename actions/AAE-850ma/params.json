@@ -1,0 +1,83 @@
+{
+    "category": "analytics",
+    "display": "Track event",
+    "fields": {
+        "AAJ": {
+            "caption": "Event Name",
+            "doc": "define your event name",
+            "editor": "StaticText",
+            "name": "event_name",
+            "rank": 0
+        },
+        "AAM": {
+            "caption": "Field 1",
+            "doc": "Name of the 1st field in metadata",
+            "editor": "StaticText",
+            "name": "field1",
+            "optional": true,
+            "rank": 1
+        },
+        "AAN": {
+            "caption": "Value 1",
+            "doc": "Value of the 1st field in metadata",
+            "editor": "StaticText",
+            "name": "value1",
+            "optional": true,
+            "rank": 2,
+            "value": "_any_thing"
+        },
+        "AAO": {
+            "caption": "Field 2",
+            "doc": "Name of the 2nd field in metadata",
+            "editor": "StaticText",
+            "name": "field2",
+            "optional": true,
+            "rank": 3
+        },
+        "AAP": {
+            "caption": "Value 2",
+            "doc": "Value of the 2nd field in metadata",
+            "editor": "StaticText",
+            "name": "value2",
+            "optional": true,
+            "rank": 4,
+            "value": "_any_thing"
+        },
+        "AAQ": {
+            "caption": "Field 3",
+            "doc": "Name of the 3rd field in metadata",
+            "editor": "StaticText",
+            "name": "field3",
+            "optional": true,
+            "rank": 5
+        },
+        "AAR": {
+            "caption": "Value 3",
+            "doc": "Value of the 3rd field in metadata",
+            "editor": "StaticText",
+            "is_list": false,
+            "name": "value3",
+            "optional": true,
+            "rank": 6,
+            "value": "_any_thing"
+        },
+        "AAS": {
+            "caption": "Field 4",
+            "doc": "Name of the 4th field in metadata",
+            "editor": "StaticText",
+            "name": "field4",
+            "optional": true,
+            "rank": 7
+        },
+        "AAT": {
+            "caption": "Value 4",
+            "doc": "Value of the 4th field in metadata",
+            "editor": "StaticText",
+            "name": "value4",
+            "optional": true,
+            "rank": 8,
+            "value": "_any_thing"
+        }
+    },
+    "type": "client_side"
+}

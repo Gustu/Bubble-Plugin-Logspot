@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "analytics"
+    },
+    "description": "Web & product analytics",
+    "image": "//s3.amazonaws.com/appforest_uf/f1674718430695x403760025919225100/Group%2019.png",
+    "license": "open_source",
+    "link": "https://logspot.io",
+    "name": "Logspot",
+    "plugin_instructions": "Register at logspot.io. Grab your public key (pk_XXXXXXXX) and enter it the plugin configuration."
+}
